@@ -1,0 +1,40 @@
+text_id: KR3h0052
+total_unique: 36
+total_occurrences: 96
+entries:
+- {kr: KR0008, char: 􅀈, codepoint: U+105008, count: 8}
+- {kr: KR0034, char: 􅀢, codepoint: U+105022, count: 8}
+- {kr: KR0094, char: 􅁞, codepoint: U+10505E, count: 2}
+- {kr: KR0110, char: 􅁮, codepoint: U+10506E, count: 1}
+- {kr: KR0146, char: 􅂒, codepoint: U+105092, count: 2}
+- {kr: KR0228, char: 􅃤, codepoint: U+1050E4, count: 2}
+- {kr: KR0303, char: 􅄯, codepoint: U+10512F, count: 2}
+- {kr: KR0307, char: 􅄳, codepoint: U+105133, count: 3}
+- {kr: KR0329, char: 􅅉, codepoint: U+105149, count: 1}
+- {kr: KR0331, char: 􅅋, codepoint: U+10514B, count: 2}
+- {kr: KR0339, char: 􅅓, codepoint: U+105153, count: 1}
+- {kr: KR0344, char: 􅅘, codepoint: U+105158, count: 1}
+- {kr: KR0347, char: 􅅛, codepoint: U+10515B, count: 1}
+- {kr: KR0374, char: 􅅶, codepoint: U+105176, count: 2}
+- {kr: KR0427, char: 􅆫, codepoint: U+1051AB, count: 1}
+- {kr: KR0603, char: 􅉛, codepoint: U+10525B, count: 1}
+- {kr: KR0605, char: 􅉝, codepoint: U+10525D, count: 2}
+- {kr: KR0611, char: 􅉣, codepoint: U+105263, count: 2}
+- {kr: KR0641, char: 􅊁, codepoint: U+105281, count: 17}
+- {kr: KR0672, char: 􅊠, codepoint: U+1052A0, count: 1}
+- {kr: KR0709, char: 􅋅, codepoint: U+1052C5, count: 1}
+- {kr: KR0716, char: 􅋌, codepoint: U+1052CC, count: 1}
+- {kr: KR0785, char: 􅌑, codepoint: U+105311, count: 2}
+- {kr: KR0815, char: 􅌯, codepoint: U+10532F, count: 1}
+- {kr: KR0823, char: 􅌷, codepoint: U+105337, count: 3}
+- {kr: KR1315, char: 􅔣, codepoint: U+105523, count: 2}
+- {kr: KR1525, char: 􅗵, codepoint: U+1055F5, count: 2}
+- {kr: KR1664, char: 􅚀, codepoint: U+105680, count: 2}
+- {kr: KR1911, char: 􅝷, codepoint: U+105777, count: 2}
+- {kr: KR1915, char: 􅝻, codepoint: U+10577B, count: 2}
+- {kr: KR2022, char: 􅟦, codepoint: U+1057E6, count: 2}
+- {kr: KR2122, char: 􅡊, codepoint: U+10584A, count: 2}
+- {kr: KR2151, char: 􅡧, codepoint: U+105867, count: 2}
+- {kr: KR2224, char: 􅢰, codepoint: U+1058B0, count: 2}
+- {kr: KR2352, char: 􅤰, codepoint: U+105930, count: 8}
+- {kr: KR3011, char: 􅯃, codepoint: U+105BC3, count: 2}
